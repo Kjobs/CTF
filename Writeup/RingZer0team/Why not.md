@@ -33,7 +33,7 @@ View the source code and we can get this code:
 ```
 
 There have a cuser named "administrator".We just need to kown the password.
-After understood the code,I wrote the pyhhon code:
+After understood the code,I wrote the python code:
 ```python
 list1 = [176,214,205,246,264,255,227,237,242,244,265,270,283]
 cuser = map(ord, "administrator")
